@@ -2,6 +2,8 @@
 
 A benchmark for evaluating LLM performance on constrained mathematical optimization problems. Problems are procedurally generated across five problem types and eight difficulty levels, with verified numerical answers.
 
+Paper: https://openreview.net/forum?id=WiR1A4Ww9z
+
 ## Problem Types
 
 | ID | Type | Description |
